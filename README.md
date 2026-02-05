@@ -104,5 +104,5 @@ TLS encrypts data in transit to protect confidentiality and integrity between cl
 > Add screenshots below:
 ![succesful-decryption](succesful-decryption-wireshark.png)
 ![tls-key-logging-command](tls-key-logging-command.png)
-
+![wireshark-packet-capturing](wireshark-packet-capturing.png)
 
